@@ -1,0 +1,9 @@
+apiVersion: v2
+version: 0.1.5
+appVersion: 0.1.0
+name: vault-cred
+description: Vault-cred Helm chart for Kubernetes
+dependencies:
+  - name: vault-cred
+    version: 0.1.5
+    repository: https://intelops.github.io/vault-cred
