@@ -1,5 +1,5 @@
 image:
-  repository: ghcr.io/sheril5/vault-cred-new/vault-cred-new
+  repository: ghcr.io/sheril5/vault-cred
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
